@@ -1,0 +1,202 @@
+2017/07/11 16:18:36 Starting cygwin install, version 2.881
+2017/07/11 16:18:36 User has backup/restore rights
+2017/07/11 16:18:36 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2017/07/11 16:18:36 Current Directory: D:\
+2017/07/11 16:18:36 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/07/11 16:18:39 source: network install
+2017/07/11 16:18:42 root: C:\cygwin system
+2017/07/11 16:18:43 Selected local directory: D:
+2017/07/11 16:18:43 Could not change dir to D:: Incorrect function.
+ [00000001]
+2017/07/11 16:18:49 net: Direct
+2017/07/11 16:18:54 site: http://cygwin.parentingamerica.com/
+2017/07/11 16:18:59 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2017/07/11 16:19:08 Adding required dependency bzip2: Selecting version 1.0.6-3 for installation.
+2017/07/11 16:19:08 Adding required dependency ca-certificates: Selecting version 2.14-1 for installation.
+2017/07/11 16:19:08 Adding required dependency groff: Selecting version 1.22.3-1 for installation.
+2017/07/11 16:19:08 Adding required dependency less: Selecting version 487-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libargp: Selecting version 20110921-3 for installation.
+2017/07/11 16:19:08 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libblkid1: Selecting version 2.25.2-2 for installation.
+2017/07/11 16:19:08 Adding required dependency libbz2_1: Selecting version 1.0.6-3 for installation.
+2017/07/11 16:19:08 Adding required dependency libffi6: Selecting version 3.2.1-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libgcc1: Selecting version 5.4.0-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libgdbm4: Selecting version 1.12-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libgmp10: Selecting version 6.1.2-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2017/07/11 16:19:08 Adding required dependency libiconv2: Selecting version 1.14-3 for installation.
+2017/07/11 16:19:08 Adding required dependency libintl8: Selecting version 0.19.8.1-2 for installation.
+2017/07/11 16:19:08 Adding required dependency liblzma5: Selecting version 5.2.3-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libmpfr4: Selecting version 3.1.5-1p2 for installation.
+2017/07/11 16:19:08 Adding required dependency libncursesw10: Selecting version 6.0-11.20170617 for installation.
+2017/07/11 16:19:08 Adding required dependency libp11-kit0: Selecting version 0.23.5-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libpcre1: Selecting version 8.40-3 for installation.
+2017/07/11 16:19:08 Adding required dependency libpipeline1: Selecting version 1.4.0-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libpopt-common: Selecting version 1.16-2 for installation.
+2017/07/11 16:19:08 Adding required dependency libpopt0: Selecting version 1.16-2 for installation.
+2017/07/11 16:19:08 Adding required dependency libsigsegv2: Selecting version 2.10-2 for installation.
+2017/07/11 16:19:08 Adding required dependency libsmartcols1: Selecting version 2.25.2-2 for installation.
+2017/07/11 16:19:08 Adding required dependency libssp0: Selecting version 5.4.0-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libstdc++6: Selecting version 5.4.0-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libtasn1_6: Selecting version 4.12-1 for installation.
+2017/07/11 16:19:08 Adding required dependency libuuid1: Selecting version 2.25.2-2 for installation.
+2017/07/11 16:19:08 Adding required dependency p11-kit: Selecting version 0.23.5-1 for installation.
+2017/07/11 16:19:08 Adding required dependency p11-kit-trust: Selecting version 0.23.5-1 for installation.
+2017/07/11 16:19:08 Adding required dependency tzcode: Selecting version 2017a-1 for installation.
+2017/07/11 16:19:08 Adding required dependency xz: Selecting version 5.2.3-1 for installation.
+2017/07/11 16:19:08 Adding required dependency zlib0: Selecting version 1.2.11-1 for installation.
+2017/07/11 16:19:09 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/_autorebase/_autorebase-001005-1.tar.xz
+2017/07/11 16:19:10 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2017/07/11 16:19:10 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2017/07/11 16:19:11 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/base-files/base-files-4.2-4.tar.xz
+2017/07/11 16:19:13 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/bash/bash-4.4.12-3.tar.xz
+2017/07/11 16:19:13 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/bzip2/bzip2-1.0.6-3.tar.xz
+2017/07/11 16:19:14 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/ca-certificates/ca-certificates-2.14-1.tar.xz
+2017/07/11 16:19:18 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/coreutils/coreutils-8.26-2.tar.xz
+2017/07/11 16:19:18 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/cygutils/cygutils-1.4.16-2.tar.xz
+2017/07/11 16:19:21 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/cygwin/cygwin-2.8.1-1.tar.xz
+2017/07/11 16:19:21 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/dash/dash-0.5.9.1-1.tar.xz
+2017/07/11 16:19:22 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/diffutils/diffutils-3.5-2.tar.xz
+2017/07/11 16:19:22 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2017/07/11 16:19:23 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/file/file-5.30-1.tar.xz
+2017/07/11 16:19:24 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2017/07/11 16:19:25 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gawk/gawk-4.1.4-3.tar.xz
+2017/07/11 16:19:26 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2017/07/11 16:19:26 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/grep/grep-3.0-2.tar.xz
+2017/07/11 16:19:30 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/groff/groff-1.22.3-1.tar.xz
+2017/07/11 16:19:30 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gzip/gzip-1.8-1.tar.xz
+2017/07/11 16:19:31 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2017/07/11 16:19:32 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/texinfo/info/info-6.4-1.tar.xz
+2017/07/11 16:19:32 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2017/07/11 16:19:32 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/less/less-487-1.tar.xz
+2017/07/11 16:19:33 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libargp/libargp-20110921-3.tar.xz
+2017/07/11 16:19:33 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2017/07/11 16:19:34 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2017/07/11 16:19:34 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+2017/07/11 16:19:34 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2017/07/11 16:19:35 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gcc/libgcc1/libgcc1-5.4.0-1.tar.xz
+2017/07/11 16:19:35 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+2017/07/11 16:19:36 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+2017/07/11 16:19:36 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2017/07/11 16:19:37 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2017/07/11 16:19:37 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2017/07/11 16:19:38 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz
+2017/07/11 16:19:38 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/mpfr/libmpfr4/libmpfr4-3.1.5-1p2.tar.xz
+2017/07/11 16:19:39 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/ncurses/libncursesw10/libncursesw10-6.0-11.20170617.tar.xz
+2017/07/11 16:19:40 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2k-1.tar.xz
+2017/07/11 16:19:40 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.23.5-1.tar.xz
+2017/07/11 16:19:41 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/pcre/libpcre1/libpcre1-8.40-3.tar.xz
+2017/07/11 16:19:41 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2017/07/11 16:19:42 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2017/07/11 16:19:42 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2017/07/11 16:19:42 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2017/07/11 16:19:43 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2017/07/11 16:19:43 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2017/07/11 16:19:44 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gcc/libssp0/libssp0-5.4.0-1.tar.xz
+2017/07/11 16:19:44 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gcc/libstdc++6/libstdc++6-5.4.0-1.tar.xz
+2017/07/11 16:19:45 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.12-1.tar.xz
+2017/07/11 16:19:45 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2017/07/11 16:19:45 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/login/login-1.11-1.tar.xz
+2017/07/11 16:19:47 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/man-db/man-db-2.7.5-2.tar.xz
+2017/07/11 16:19:47 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/mintty/mintty-2.7.8-0.tar.xz
+2017/07/11 16:19:48 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/ncurses/ncurses-6.0-11.20170617.tar.xz
+2017/07/11 16:19:49 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/openssl/openssl-1.0.2k-1.tar.xz
+2017/07/11 16:19:49 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/p11-kit/p11-kit-0.23.5-1.tar.xz
+2017/07/11 16:19:50 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.5-1.tar.xz
+2017/07/11 16:19:50 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/rebase/rebase-4.4.2-1.tar.xz
+2017/07/11 16:19:51 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/run/run-1.3.4-2.tar.xz
+2017/07/11 16:19:51 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/sed/sed-4.4-1.tar.xz
+2017/07/11 16:19:52 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/tar/tar-1.29-1.tar.xz
+2017/07/11 16:19:53 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/ncurses/terminfo/terminfo-6.0-11.20170617.tar.xz
+2017/07/11 16:19:53 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/tzcode/tzcode-2017a-1.tar.xz
+2017/07/11 16:19:54 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/tzdata/tzdata-2017b-1.tar.xz
+2017/07/11 16:19:55 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+2017/07/11 16:19:56 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/vim/vim-minimal/vim-minimal-8.0.0647-1.tar.xz
+2017/07/11 16:19:57 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/which/which-2.20-2.tar.bz2
+2017/07/11 16:19:57 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/xz/xz-5.2.3-1.tar.xz
+2017/07/11 16:19:57 Downloaded D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2017/07/11 16:20:05 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/_autorebase/_autorebase-001005-1.tar.xz
+2017/07/11 16:20:05 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2017/07/11 16:20:06 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2017/07/11 16:20:06 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/base-files/base-files-4.2-4.tar.xz
+2017/07/11 16:20:07 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/bash/bash-4.4.12-3.tar.xz
+2017/07/11 16:20:10 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/bzip2/bzip2-1.0.6-3.tar.xz
+2017/07/11 16:20:10 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/ca-certificates/ca-certificates-2.14-1.tar.xz
+2017/07/11 16:20:11 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/coreutils/coreutils-8.26-2.tar.xz
+2017/07/11 16:20:30 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/cygutils/cygutils-1.4.16-2.tar.xz
+2017/07/11 16:20:30 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/cygwin/cygwin-2.8.1-1.tar.xz
+2017/07/11 16:20:40 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/dash/dash-0.5.9.1-1.tar.xz
+2017/07/11 16:20:41 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/diffutils/diffutils-3.5-2.tar.xz
+2017/07/11 16:20:51 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2017/07/11 16:20:51 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/file/file-5.30-1.tar.xz
+2017/07/11 16:20:51 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2017/07/11 16:20:52 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gawk/gawk-4.1.4-3.tar.xz
+2017/07/11 16:21:03 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2017/07/11 16:21:04 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/grep/grep-3.0-2.tar.xz
+2017/07/11 16:21:11 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/groff/groff-1.22.3-1.tar.xz
+2017/07/11 16:21:44 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gzip/gzip-1.8-1.tar.xz
+2017/07/11 16:21:44 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2017/07/11 16:21:44 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/texinfo/info/info-6.4-1.tar.xz
+2017/07/11 16:21:49 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2017/07/11 16:21:50 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/less/less-487-1.tar.xz
+2017/07/11 16:21:52 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libargp/libargp-20110921-3.tar.xz
+2017/07/11 16:21:52 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2017/07/11 16:21:52 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2017/07/11 16:21:52 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+2017/07/11 16:21:53 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2017/07/11 16:21:54 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gcc/libgcc1/libgcc1-5.4.0-1.tar.xz
+2017/07/11 16:21:54 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+2017/07/11 16:21:55 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+2017/07/11 16:21:56 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2017/07/11 16:22:02 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2017/07/11 16:22:03 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2017/07/11 16:22:04 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz
+2017/07/11 16:22:04 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/mpfr/libmpfr4/libmpfr4-3.1.5-1p2.tar.xz
+2017/07/11 16:22:04 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/ncurses/libncursesw10/libncursesw10-6.0-11.20170617.tar.xz
+2017/07/11 16:22:06 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2k-1.tar.xz
+2017/07/11 16:22:07 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.23.5-1.tar.xz
+2017/07/11 16:22:07 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/pcre/libpcre1/libpcre1-8.40-3.tar.xz
+2017/07/11 16:22:07 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2017/07/11 16:22:07 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gcc/libssp0/libssp0-5.4.0-1.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/gcc/libstdc++6/libstdc++6-5.4.0-1.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.12-1.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2017/07/11 16:22:08 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/login/login-1.11-1.tar.xz
+2017/07/11 16:22:09 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/man-db/man-db-2.7.5-2.tar.xz
+2017/07/11 16:22:24 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/mintty/mintty-2.7.8-0.tar.xz
+2017/07/11 16:22:26 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/ncurses/ncurses-6.0-11.20170617.tar.xz
+2017/07/11 16:22:27 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/openssl/openssl-1.0.2k-1.tar.xz
+2017/07/11 16:22:27 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/p11-kit/p11-kit-0.23.5-1.tar.xz
+2017/07/11 16:22:28 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.5-1.tar.xz
+2017/07/11 16:22:28 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/rebase/rebase-4.4.2-1.tar.xz
+2017/07/11 16:22:28 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/run/run-1.3.4-2.tar.xz
+2017/07/11 16:22:30 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/sed/sed-4.4-1.tar.xz
+2017/07/11 16:22:37 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/tar/tar-1.29-1.tar.xz
+2017/07/11 16:22:39 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/ncurses/terminfo/terminfo-6.0-11.20170617.tar.xz
+2017/07/11 16:22:49 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/tzcode/tzcode-2017a-1.tar.xz
+2017/07/11 16:22:51 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/noarch/release/tzdata/tzdata-2017b-1.tar.xz
+2017/07/11 16:23:48 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+2017/07/11 16:23:55 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/vim/vim-minimal/vim-minimal-8.0.0647-1.tar.xz
+2017/07/11 16:23:59 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/which/which-2.20-2.tar.bz2
+2017/07/11 16:24:01 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/xz/xz-5.2.3-1.tar.xz
+2017/07/11 16:24:06 Extracting from file://D:/http%3a%2f%2fcygwin.parentingamerica.com%2f/x86/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2017/07/11 16:24:06 Changing gid back to original
+2017/07/11 16:24:06 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/07/11 16:24:38 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/07/11 16:24:46 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2017/07/11 16:24:47 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2017/07/11 16:24:47 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2017/07/11 16:24:48 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2017/07/11 16:24:51 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2017/07/11 16:24:54 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2017/07/11 16:24:58 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2017/07/11 16:24:58 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2017/07/11 16:24:59 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2017/07/11 16:25:00 Changing gid to Administrators
+2017/07/11 16:25:03 note: Installation Complete
+2017/07/11 16:25:03 Ending cygwin install
