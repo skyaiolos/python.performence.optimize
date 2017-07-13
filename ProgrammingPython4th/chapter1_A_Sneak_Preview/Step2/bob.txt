@@ -1,1 +1,0 @@
-{'age': 42, 'job': 'dev', 'name': 'Bob Smith', 'pay': 30000}
